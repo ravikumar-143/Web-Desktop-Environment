@@ -1,4 +1,4 @@
-![Web Desktop Environment](./assets/main.png)
+![Web Desktop Environment]("C:\Users\kosgi\Downloads\main.png")
 
 >  A cross-platform desktop-environment with a web interface design to provide a simple and intuitive way to manage your server with a desktop-like interface.
 
@@ -60,20 +60,20 @@ both the server and are build using a react framework called ["react-fullstack"]
 
 ## Screenshots
 
-![dark theme](./assets/x11-support.png "Nord Theme Desktop")
+![dark theme]("C:\Users\kosgi\Downloads\x11-support.png")
 >Dark Theme Desktop running vs-code and x11 apps
 
-![dark theme](./assets/dark_theme_screenshot.jpg "Dark Theme Desktop")
+![dark theme]("C:\Users\kosgi\Downloads\dark_theme_screenshot.jpg")
 
 >Dark Theme Desktop
 
 
-![mobile](./assets/mobile_screenshot.jpg "Mobile Screenshots")
+![mobile]("C:\Users\kosgi\Downloads\mobile_screenshot.jpg")
 
 >Multiple Mobile Screenshots
 
 
-![light theme](./assets/light_theme_screenshot.jpg "Light Theme Desktop 😒")
+![light theme]("C:\Users\kosgi\Downloads\light_theme_screenshot.jpg")
 
 >  Light Theme Desktop 😒
 
